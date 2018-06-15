@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/user"
+            android:title="Profile" />
+        <item
+            android:id="@+id/emer"
+            android:icon="@drawable/emer"
+            android:title="Emergency" />
+        <item
+            android:id="@+id/family"
+            android:icon="@drawable/family"
+            android:title="Add family" />
+        <item
+            android:id="@+id/locaion"
+            android:icon="@drawable/location"
+            android:title="location" />
+        <item
+            android:id="@+id/stop"
+            android:icon="@drawable/stop"
+            android:title="Stop Notification" />
+
+
+
+    </group>
+
+
+
+</menu>
